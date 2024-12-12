@@ -14,6 +14,11 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Other Groups
+## Our Friends
+
+There are several other Bitcoin meetup groups we are friendly with. Check them out too!
+* [Encinitas Bitcoin Meetup]([https://lu.ma/6xgvf8bd](https://lu.ma/calendar/cal-3zDGZ6vPHuIqgAO))
+* Pacific Beach (TBD)
+* Escondido
 
 For more information, visit [Hextra](https://imfing.github.io/hextra).
