@@ -1,9 +1,9 @@
 ---
 title: San Diego Bitcoiners
-toc: false
+toc: true
 ---
 
-> Bitcoin is different things to different people.
+> Bitcoin is different things to different people. <br />
 > — Jameson Lopp
 
 Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San Diego Bitcoiners are here for you! Born out of the Covid pandemic at a time when Bitcoiners needed to get back to rubbing elbows, this meetup set out to serve as a means to gather folks who were interesting in talking and learning about Bitcoin, and _only_ Bitcoin!
