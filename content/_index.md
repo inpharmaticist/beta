@@ -10,7 +10,7 @@ This is the landing page.
 {{< cards >}}
   {{< card link="https://blog.sdbitcoiners.com" title="Blog" icon="rss" >}}
   {{< card link="https://lu.ma/sdbitcoiners" title="Events" icon="calendar" >}}
-  {{< card link="Get Support!" title="Support" icon="support" >}}
+  {{< card link="support!" title="Get Support!" icon="support" >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
