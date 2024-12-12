@@ -3,7 +3,10 @@ title: San Diego Bitcoiners
 toc: false
 ---
 
-This is the landing page.
+> Bitcoin is different things to different people.
+> - Jameson Lopp
+
+Whatever Bitcoin is to you and wherever you are in your understanding, the San Diego Bitcoiners are here for you! Born out of the Covid pandemic at a time when Bitcoiners needed to get back to rubbing elbows, this meetup served as a means to gather folks who were interesting in talking and learning about Bitcoin, and _only_ Bitcoin!
 
 ## Community
 
