@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: San Diego Bitcoiners
 toc: false
 ---
 
