@@ -6,14 +6,14 @@ toc: false
 > Bitcoin is different things to different people.
 > — Jameson Lopp
 
-Whatever Bitcoin is to you and wherever you are in your understanding, the San Diego Bitcoiners are here for you! Born out of the Covid pandemic at a time when Bitcoiners needed to get back to rubbing elbows, this meetup served as a means to gather folks who were interesting in talking and learning about Bitcoin, and _only_ Bitcoin!
+Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San Diego Bitcoiners are here for you! Born out of the Covid pandemic at a time when Bitcoiners needed to get back to rubbing elbows, this meetup set out to serve as a means to gather folks who were interesting in talking and learning about Bitcoin, and _only_ Bitcoin!
 
 ## Community
 
 {{< cards >}}
   {{< card link="https://blog.sdbitcoiners.com" title="Blog" icon="rss" >}}
   {{< card link="https://lu.ma/sdbitcoiners" title="Events" icon="calendar" >}}
-  {{< card link="support" title="Get Support!" icon="support" >}}
+  {{< card link="support" title="Hands-On Support" icon="support" >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
