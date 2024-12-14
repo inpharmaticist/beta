@@ -1,5 +1,5 @@
 ---
-title: My Docs
+title: Support
 cascade:
   type: docs
 ---
@@ -13,3 +13,5 @@ If you answer _yes_ to an of the questions above, you might benefit from hans-on
 ...all of this info is readily available but if you don't want to spend 100s of hours researching...
 
 Meet Corey, the host of the San Diego Bitcoiners...
+
+reach out for a free consultation. If we identify areas of improvement requiring hand-on help we can...
