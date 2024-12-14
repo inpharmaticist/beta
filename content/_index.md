@@ -21,8 +21,8 @@ Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San
 ## Our Friends
 
 There are several other Bitcoin meetup groups we are friendly with. Check them out too!
-* [Encinitas Bitcoin Meetup]([https://lu.ma/6xgvf8bd](https://lu.ma/calendar/cal-3zDGZ6vPHuIqgAO))
+* [Encinitas]([https://lu.ma/6xgvf8bd](https://lu.ma/calendar/cal-3zDGZ6vPHuIqgAO))
 * Pacific Beach (TBD)
-* Escondido
+* [Escondido](https://lu.ma/calendar/cal-7fsYTR7N4Yfc6Ed)
 
 For more information, visit [Hextra](https://imfing.github.io/hextra).
