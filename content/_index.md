@@ -39,5 +39,3 @@ There are several other Bitcoin meetup groups we are friendly with. Check them o
 * [Encinitas](https://lu.ma/calendar/cal-3zDGZ6vPHuIqgAO)
 * Pacific Beach (TBD)
 * [Escondido](https://lu.ma/calendar/cal-7fsYTR7N4Yfc6Ed)
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
