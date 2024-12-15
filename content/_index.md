@@ -1,6 +1,8 @@
 ---
 title: San Diego Bitcoiners
 toc: true
+cascade:
+  type: docs
 ---
 
 > [!CAUTION]
