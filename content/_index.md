@@ -1,6 +1,6 @@
 ---
 title: San Diego Bitcoiners
-toc: true
+toc: false
 cascade:
   type: docs
 ---
