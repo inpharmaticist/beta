@@ -26,7 +26,7 @@ Take a look at our events page to see when we're meeting next. Our current caden
 [Sparrow Wallet](https://sparrowwallet.com/) (our favorite desktop wallet) is a great resource for self-custodying your bitcoin in a secure and private way. Check out their [Best Practices](https://sparrowwallet.com/docs/best-practices.html) section. This information is great for new people and seasoned Bitcoiners.  They propose 3 general stages based on the value of your Bitcoin savings:
 
 <center>
-  <img src="3stages.jpeg" alt="Stages" width="300"/>
+  <img src="3stages.jpeg" alt="Stages" width="600"/>
 </center>
 
 Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our {{< card link="support" title="Support and Consulting" icon="support" >}} page.
