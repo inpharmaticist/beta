@@ -31,13 +31,6 @@ menu:
       url: "https://primal.net/p/npub1c0r3ytrr4afgrlhrhyec6y9wvkckdllx7ul3cfevtsgjqcrhx8tsdzqs7w"
       params:
         icon: user-add
-  # sidebar:
-  #   - name: Main
-  #     pageRef: /
-  #     weight: 1
-    # - name: Support
-    #   pageRef: /support
-    #   weight: 2
 
 params:
   navbar:
