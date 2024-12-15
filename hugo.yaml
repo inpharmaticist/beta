@@ -18,11 +18,11 @@ markup:
 
 menu:
   main:
+    - name: Main
+      pageRef: /
+      weight: 1
     - name: Support
       pageRef: /support
-      weight: 1
-    - name: About
-      pageRef: /about
       weight: 2
     - name: Contact ↗
       url: "https://formstr.app/#/fill/f5ff29ea0fc13932da373f91dc0030998431f3626476acc8ff8a30bd78bf2c2a"
@@ -37,6 +37,15 @@ menu:
       url: "https://primal.net/p/npub1c0r3ytrr4afgrlhrhyec6y9wvkckdllx7ul3cfevtsgjqcrhx8tsdzqs7w"
       params:
         icon: user-add
+  sidebar:
+    - name: Main
+      params:
+        type: separator
+      pageRef: /
+      weight: 1
+    - name: "Support"
+      pageRef: "/support"
+      weight: 2
 
 params:
   navbar:
