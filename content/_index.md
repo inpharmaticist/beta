@@ -13,9 +13,7 @@ Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San
 {{< cards >}}
   {{< card link="https://blog.sdbitcoiners.com" title="Blog" icon="rss" >}}
   {{< card link="https://lu.ma/sdbitcoiners" title="Events" icon="calendar" >}}
-  {{< card link="support" title="Hands-On Support" icon="support" >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="support" title="Support and Consulting" icon="support" >}}
 {{< /cards >}}
 
 ## Our Friends
