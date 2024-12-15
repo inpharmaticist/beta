@@ -18,26 +18,22 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Support
+      pageRef: /support
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://formstr.app/#/fill/f5ff29ea0fc13932da373f91dc0030998431f3626476acc8ff8a30bd78bf2c2a"
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
     - name: Twitter
-      weight: 6
+      weight: 4
       url: "https://twitter.com/"
       params:
         icon: x-twitter
     - name: Nostr
-      weight: 7
+      weight: 5
       url: "https://primal.net/p/npub1c0r3ytrr4afgrlhrhyec6y9wvkckdllx7ul3cfevtsgjqcrhx8tsdzqs7w"
       params:
         icon: user-add
