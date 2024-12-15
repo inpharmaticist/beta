@@ -39,8 +39,6 @@ menu:
         icon: user-add
   sidebar:
     - name: Main
-      params:
-        type: separator
       pageRef: /
       weight: 1
     - name: "Support"
