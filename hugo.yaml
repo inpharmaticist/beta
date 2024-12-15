@@ -41,13 +41,13 @@ menu:
     - name: Main
       pageRef: /
       weight: 1
-    - name: "Support"
-      pageRef: "/support"
+    - name: Support
+      pageRef: /support
       weight: 2
 
 params:
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: false
 
   footer:
