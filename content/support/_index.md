@@ -3,6 +3,21 @@ title: Support
 cascade:
   type: docs
 ---
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 [!CAUTION]
 Do not share your seed phrase with anyone, ever. If possible, never type into a device directly connected to the internet.
 
@@ -23,3 +38,5 @@ If you answer _yes_ to an of the questions above, you might benefit from hans-on
 
 
 reach out for a free consultation. If we identify areas of improvement requiring hand-on help we can...
+
+![](headshot.jpeg)
