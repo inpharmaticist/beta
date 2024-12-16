@@ -5,13 +5,9 @@ cascade:
   type: docs
 ---
 
-> [!CAUTION]
-> 
-> Do not share your seed phrase with anyone, ever. Don't enter it into many devices and, if possible, don't type it into a device directly connected to the internet.
-
 |⚠️ Warning|
 |-|
-|Do not share your seed phrase with anyone, ever. Don't enter it into many devices and, if possible, don't type it into a device directly connected to the internet.|
+|Don't share your seed phrase with anyone, unless you want them to take possession of your funds.|
 
 > Bitcoin is different things to different people. <br />
 > — Jameson Lopp
