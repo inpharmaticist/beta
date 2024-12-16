@@ -32,6 +32,7 @@ Take a look at our events page to see when we're meeting next. Our current caden
 </center>
 
 ||Beginner|Intermediate|Expert
+|-|-|-|-|
 |Max Amount|$10,000|$100,000|-
 |Server Type|Public Electrum|Private Bitcoin Core|Private Electrum
 |Wallet Type|Singlesig|Singlesig|Multisig
