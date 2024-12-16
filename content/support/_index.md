@@ -4,8 +4,9 @@ cascade:
   type: docs
 ---
 
-> [!CAUTION]
-> Do not share your seed phrase with anyone, ever. Don't enter it into many devices and, if possible, don't type it into a device directly connected to the internet.
+|⚠️ Warning|
+|-|
+|Don't share your seed phrase with anyone, unless you want them to take possession of your funds.|
 
 Most bitcoiners need _some_ help with or want to learn more about buying, storing, or using Bitcoin. There's often one tool they just haven't had the time to research or try on their own. Or maybe they don't have the confidence to put that feature into practice. There are a multitude of resources on these topics, sharing reliable tools and best practices (such as [bitcoin.page](bitcoin.page), [bitcoiner.guide](bitcoiner.guide), and [BTC Session's](https://www.youtube.com/c/btcsessions) videos), but it could take 100s of hours to find, consume, and understand the info specific to your needs. 
 
