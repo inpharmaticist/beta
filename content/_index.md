@@ -6,6 +6,7 @@ cascade:
 ---
 
 > [!CAUTION]
+> 
 > Do not share your seed phrase with anyone, ever. Don't enter it into many devices and, if possible, don't type it into a device directly connected to the internet.
 
 > Bitcoin is different things to different people. <br />
