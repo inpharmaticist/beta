@@ -37,6 +37,7 @@ Take a look at our events page to see when we're meeting next. Our current caden
 |Server Type|Public Electrum|Private Bitcoin Core|Private Electrum
 |Wallet Type|Singlesig|Singlesig|Multisig
 |Private To*|None|Passive Listeners|Active Attackers
+
 *No security is perfect, but these general descriptions apply
 
 Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](support) page.
