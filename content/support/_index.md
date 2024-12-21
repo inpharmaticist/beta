@@ -1,4 +1,6 @@
 ---
+linkTitle: "San Diego Bitcoiners"
+title: Support
 cascade:
   type: docs
 ---
