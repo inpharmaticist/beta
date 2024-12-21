@@ -1,5 +1,5 @@
 ---
-title: San Diego Bitcoiners
+title: Main
 toc: false
 cascade:
   type: docs
