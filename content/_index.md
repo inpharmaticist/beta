@@ -15,10 +15,6 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx-mb-6">
-{{< hextra/hero-button text="Learn more" link="about" >}}
-</div>
-
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
@@ -53,3 +49,7 @@ layout: hextra-home
     subtitle="Silent Payments are open source from top to bottom, including the proposal itself, the existing libraries, and even this website!"
   >}}
 {{< /hextra/feature-grid >}}
+
+<div class="hx-mb-6">
+{{< hextra/hero-button text="Learn more" link="about" >}}
+</div>
