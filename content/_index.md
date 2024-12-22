@@ -24,7 +24,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     link="about"
-    icon="users"
+    icon="sdblogo"
     title="Community"
     subtitle="Learn more about our group."
   >}}
