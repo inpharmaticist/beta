@@ -45,14 +45,14 @@ layout: hextra-home
   {{< hextra/feature-card
     link="chat"
     icon="support"
-    title="Join Our Group Chat"
+    title="Group Chat"
     subtitle="Between meetups, the chatter is on Signal."
   >}}
   {{< hextra/feature-card
     link="contact"
     icon="phone"
-    title="Contact"
-    subtitle="Reach out!"
+    title="Contact Our Host"
+    subtitle="Reach out privately."
   >}}
 {{< /hextra/feature-grid >}}
 <br /><br />
