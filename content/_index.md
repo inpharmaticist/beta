@@ -15,6 +15,11 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
+> Bitcoin is different things to different people. <br />
+> — Jameson Lopp
+
+Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San Diego Bitcoiners are here for you! 
+
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
@@ -49,7 +54,7 @@ layout: hextra-home
     subtitle="Silent Payments are open source from top to bottom, including the proposal itself, the existing libraries, and even this website!"
   >}}
 {{< /hextra/feature-grid >}}
-
+<br /><br />
 <div class="hx-mb-6">
 {{< hextra/hero-button text="Learn more" link="about" >}}
 </div>
