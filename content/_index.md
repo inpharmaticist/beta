@@ -33,13 +33,11 @@ Take a look at our events page to see when we're meeting next. Our current caden
   <img src="stages.jpeg" alt="Stages" width="500"/>
 </center>
 
-*No security is perfect, but these general descriptions apply
-
 Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](support) page.
 
 ## Our Friends
 
 There are several other Bitcoin meetup groups we are friendly with. Check them out too!
 * [Encinitas](https://lu.ma/calendar/cal-3zDGZ6vPHuIqgAO)
-* Pacific Beach (TBD)
+* Pacific Beach ([Signal group](https://signal.group/#CjQKIJ-FUG7-EWFyFYGLTYAOQlPy3G5y8BPPprtdCP_FPGmyEhDNDsODsn2Hc50lCkHqduQy))
 * [Escondido](https://lu.ma/calendar/cal-7fsYTR7N4Yfc6Ed)
