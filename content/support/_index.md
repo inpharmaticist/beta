@@ -4,6 +4,7 @@ title:
 toc: false
 cascade:
   type: docs
+previous: /about/frens
 next: /events
 ---
 
