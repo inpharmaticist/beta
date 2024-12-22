@@ -10,7 +10,7 @@ next: /about/frens
 [Sparrow Wallet](https://sparrowwallet.com/) (our favorite desktop wallet) is a great resource for self-custodying your bitcoin in a secure and private way. Check out their [Best Practices](https://sparrowwallet.com/docs/best-practices.html) section. This information is great for new people and seasoned Bitcoiners.  They propose 3 general stages based on the value of your Bitcoin savings:
 
 <center>
-  <img src="stages.jpeg" alt="Stages" width="500"/>
+  <img src="/about/stages.jpeg" alt="Stages" width="500"/>
 </center>
 ![](stages.jpeg)
 
