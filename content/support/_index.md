@@ -1,6 +1,7 @@
 ---
-linkTitle: "San Diego Bitcoiners"
-title: Support
+linkTitle: "Support"
+title: 
+toc: false
 cascade:
   type: docs
 ---
