@@ -4,8 +4,8 @@ title:
 toc: false
 cascade:
   type: docs
-previous: /about/frens
-next: /contact
+previous: /about/friends
+next: contact
 ---
 
 |⚠️ Warning|
