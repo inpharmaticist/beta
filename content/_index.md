@@ -53,7 +53,7 @@ layout: hextra-home
     subtitle="Between meetups, the chatter is on Signal."
   >}}
   {{< hextra/feature-card
-    link="contact"
+    link="/contact"
     icon="phone"
     title="Contact Our Host"
     subtitle="Reach out privately."
