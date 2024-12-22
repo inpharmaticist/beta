@@ -3,7 +3,7 @@ linkTitle: "Friends"
 title: Our Friends
 toc: false
 weight: 3
-next: /support
+next: support
 ---
 
 ## Our Friends
