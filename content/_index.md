@@ -2,6 +2,9 @@
 linkTitle: "San Diego Bitcoiners"
 title: About
 layout: hextra-home
+toc: false
+cascade:
+  type: default
 ---
 
 |⚠️ Warning|
