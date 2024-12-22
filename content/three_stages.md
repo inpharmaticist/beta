@@ -2,7 +2,6 @@
 linkTitle: "Three Stages"
 title: Three Stages
 toc: false
-weight: 2
 prev: about
 next: frens
 ---
