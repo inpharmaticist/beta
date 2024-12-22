@@ -15,4 +15,4 @@ next: /about/frens
 </center>
 ![](stages.jpeg)
 
-Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](support) page.
+Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](/support) page.
