@@ -40,3 +40,6 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: true
+  
+  page:
+    width: normal
