@@ -8,4 +8,4 @@ previous: /events
 next: /chat
 ---
 
-Blog
+Check out our [blog](https://blog.sdbitcoiners.com) where we post event updates and musings on Bitcoin news.
