@@ -12,5 +12,6 @@ next: /about/frens
 <center>
   <img src="stages.jpeg" alt="Stages" width="500"/>
 </center>
+![](stages.jpeg)
 
 Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](support) page.
