@@ -1,5 +1,5 @@
 ---
-linkTitle: "San Diego Bitcoiners"
+linkTitle: About
 title: About
 toc: false
 cascade:
