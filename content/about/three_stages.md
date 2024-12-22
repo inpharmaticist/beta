@@ -1,6 +1,7 @@
 ---
 linkTitle: "Three Stages"
 title: Three Stages
+toc: false
 weight: 2
 prev: /about/_index
 next: /about/frens
