@@ -1,3 +1,10 @@
+---
+linkTitle: "Friends"
+title: Our Friends
+weight: 3
+next: /support
+---
+
 ## Our Friends
 
 There are several other Bitcoin meetup groups we are friendly with. Check them out too!
