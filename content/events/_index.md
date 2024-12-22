@@ -7,4 +7,4 @@ cascade:
 previous: /support
 next: /blog
 ---
-events
+You can RSVP to our events on [Luma](https://lu.ma/sdbitcoiners)
