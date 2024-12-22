@@ -10,28 +10,3 @@ cascade:
 > — Jameson Lopp
 
 Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San Diego Bitcoiners are here for you! Born out of the Covid pandemic at a time when Bitcoiners needed to get back to rubbing elbows, this meetup set out to serve as a means to gather folks who were interesting in talking and learning about Bitcoin, and _only_ Bitcoin! We currently meet the second Thursday of the month at [Quantum Brewing](https://www.quantumbrewingsd.com/) in Kearny Mesa. We have guest presentations, short demos, and sometimes just hang out and chat with each other.
-
-## Community
-
-{{< cards >}}
-  {{< card link="https://blog.sdbitcoiners.com" title="Blog" icon="rss" >}}
-  {{< card link="https://lu.ma/sdbitcoiners" title="Events" icon="calendar" >}}
-  {{< card link="support" title="Support and Consulting" icon="support" >}}
-{{< /cards >}}
-
-## Sparrow's Three Stages
-
-[Sparrow Wallet](https://sparrowwallet.com/) (our favorite desktop wallet) is a great resource for self-custodying your bitcoin in a secure and private way. Check out their [Best Practices](https://sparrowwallet.com/docs/best-practices.html) section. This information is great for new people and seasoned Bitcoiners.  They propose 3 general stages based on the value of your Bitcoin savings:
-
-<center>
-  <img src="stages.jpeg" alt="Stages" width="500"/>
-</center>
-
-Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](support) page.
-
-## Our Friends
-
-There are several other Bitcoin meetup groups we are friendly with. Check them out too!
-* [Encinitas](https://lu.ma/calendar/cal-3zDGZ6vPHuIqgAO)
-* Pacific Beach ([Signal group](https://signal.group/#CjQKIJ-FUG7-EWFyFYGLTYAOQlPy3G5y8BPPprtdCP_FPGmyEhDNDsODsn2Hc50lCkHqduQy))
-* [Escondido](https://lu.ma/calendar/cal-7fsYTR7N4Yfc6Ed)
