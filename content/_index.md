@@ -3,7 +3,7 @@ linkTitle: "San Diego Bitcoiners"
 title: About
 toc: false
 cascade:
-  type: default
+  type: docs
 ---
 
 |⚠️ Warning|
