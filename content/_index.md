@@ -19,34 +19,14 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    icon="shield-check"
-    title="Privacy preserving"
-    subtitle="No matter how many people you share your Silent Payment address with, only the sender and receiver can connect it with on-chain activity."
+    icon="users"
+    title="Community"
+    subtitle="Learn more about our group."
   >}}
   {{< hextra/feature-card
-    icon="thumb-up"
-    title="Easy to use"
-    subtitle="One static payment address is all you need. Post it on social media, put it in your Github repo for donations, or share it with friends and family to simplify payments."
-  >}}
-  {{< hextra/feature-card
-    icon="document-duplicate"
-    title="Say goodbye to 'send me a new address!'"
-    subtitle="With Silent Payments all you have to do is give your address to someone once and they can derive infinite new addresses using it."
-  >}}
-  {{< hextra/feature-card
-    icon="ban"
-    title="No server required"
-    subtitle="Silent Payments remove the need for complicated infrastructure to handle donations and payments privately. Simply post a static address and call it a day."
-  >}}
-  {{< hextra/feature-card
-    icon="device-mobile"
-    title="Growing wallet support"
-    subtitle="Silent Payments have strong and growing support in wallets already, with more adding support regularly."
-  >}}
-  {{< hextra/feature-card
-    icon="folder-open"
-    title="Always open source"
-    subtitle="Silent Payments are open source from top to bottom, including the proposal itself, the existing libraries, and even this website!"
+    icon="support"
+    title="Support"
+    subtitle="Have a question or issue? Get help from someone with experience."
   >}}
 {{< /hextra/feature-grid >}}
 <br /><br />
