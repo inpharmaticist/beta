@@ -4,7 +4,7 @@ title: About
 toc: false
 cascade:
   type: docs
-next: /about/three_stages
+next: /three_stages
 ---
 
 > Bitcoin is different things to different people. <br />
