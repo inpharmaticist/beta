@@ -4,8 +4,8 @@ title:
 toc: false
 cascade:
   type: docs
-previous: /support/_index
-next: /events/_index
+previous: support
+next: events
 ---
 (if the form doesn't show up click [here](https://formstr.app/#/fill/f5ff29ea0fc13932da373f91dc0030998431f3626476acc8ff8a30bd78bf2c2a))
 
