@@ -1,5 +1,5 @@
 ---
-linkTitle: "San Diego Bitcoiners"
+linkTitle: "Three Stages"
 title: Three Stages
 weight: 2
 prev: /about/_index
