@@ -15,11 +15,6 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-> Bitcoin is different things to different people. <br />
-> — Jameson Lopp
-
-Whatever Bitcoin is to you and wherever you are in your Bitcoin journey, the San Diego Bitcoiners are here for you! 
-
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
