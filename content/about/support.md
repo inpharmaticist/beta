@@ -6,6 +6,7 @@ cascade:
   type: docs
 previous: friends
 next: contact
+weight: 4
 ---
 
 |⚠️ Warning|

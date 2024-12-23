@@ -29,31 +29,31 @@ layout: hextra-home
     subtitle="Learn more about our group."
   >}}
   {{< hextra/feature-card
-    link="support"
+    link="/about/support"
     icon="support"
     title="Support"
     subtitle="Have a question or issue? Get help from someone with experience."
   >}}
   {{< hextra/feature-card
-    link="events"
+    link="/about/events"
     icon="calendar"
     title="RSVP"
     subtitle="View our calendar of events and let us know you're coming."
   >}}
   {{< hextra/feature-card
-    link="blog"
+    link="/about/blog"
     icon="rss"
     title="Blog"
     subtitle="Sometimes we post about current events."
   >}}
   {{< hextra/feature-card
-    link="chat"
+    link="/about/chat"
     icon="support"
     title="Group Chat"
     subtitle="Between meetups, the chatter is on Signal."
   >}}
   {{< hextra/feature-card
-    link="/contact"
+    link="/about/contact"
     icon="phone"
     title="Contact Our Host"
     subtitle="Reach out privately."

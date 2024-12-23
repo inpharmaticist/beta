@@ -5,6 +5,7 @@ toc: false
 cascade:
   type: docs
 next: three_stages
+weight: 1
 ---
 
 > Bitcoin is different things to different people. <br />

@@ -6,6 +6,7 @@ cascade:
   type: docs
 prev: about
 next: friends
+weight: 2
 ---
 
 ## Sparrow's Three Stages
