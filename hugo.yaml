@@ -23,7 +23,7 @@ menu:
       weight: 1
     - name: Twitter
       weight: 2
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sdbitcoiners"
       params:
         icon: x-twitter
     - name: Nostr

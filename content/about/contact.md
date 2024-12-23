@@ -1,6 +1,5 @@
 ---
-linkTitle: "Contact"
-title: 
+title: Contact
 toc: false
 cascade:
   type: docs

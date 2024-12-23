@@ -1,6 +1,5 @@
 ---
-linkTitle: "Chat"
-title: 
+title: Chat
 toc: false
 cascade:
   type: docs

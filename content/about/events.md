@@ -1,6 +1,5 @@
 ---
-linkTitle: "Events"
-title: 
+title: Events
 toc: false
 cascade:
   type: docs

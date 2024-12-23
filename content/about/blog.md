@@ -1,6 +1,5 @@
 ---
-linkTitle: "Blog"
-title: 
+title: Blog
 toc: false
 cascade:
   type: docs

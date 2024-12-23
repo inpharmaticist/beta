@@ -1,6 +1,5 @@
 ---
-linkTitle: "Support"
-title: 
+title: Support
 toc: false
 cascade:
   type: docs
