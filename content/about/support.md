@@ -18,7 +18,7 @@ Most bitcoiners need _some_ help with or want to learn more about buying, storin
 Save yourself many hours and potentially a lot of frustration by speaking with someone experienced with self-custody and who understands the trade-offs of the tools available. 
 
 <center>
-  <img src="headshot.jpeg" alt="Corey" width="200"/>
+  <img src="https://raw.githubusercontent.com/inpharmaticist/beta/refs/heads/main/content/about/headshot.jpeg" alt="Corey" width="200"/>
 </center>
 
 My name is Corey (aka Corey San Diego on [X](twitter.com/inpharmaticist) and [Nostr](https://primal.net/p/npub1c0r3ytrr4afgrlhrhyec6y9wvkckdllx7ul3cfevtsgjqcrhx8tsdzqs7w)). I have been the host of the San Diego Bitcoiners meetup since 2021, and a bitcoin enthusiast since 2017. I have spent countless hours reading about, listening to, and experimenting with resources in the space. 
