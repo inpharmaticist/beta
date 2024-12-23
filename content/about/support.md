@@ -3,7 +3,7 @@ title: Support
 toc: false
 cascade:
   type: docs
-previous: friends
+previous: three_stages
 next: contact
 weight: 4
 breadcrumbs: false

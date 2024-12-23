@@ -1,9 +1,8 @@
 ---
 title: Our Friends
 toc: false
-weight: 3
-prev: three_stages
-next: support
+weight: 9
+prev: chat
 breadcrumbs: false
 ---
 

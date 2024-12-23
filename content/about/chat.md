@@ -4,6 +4,7 @@ toc: false
 cascade:
   type: docs
 previous: blog
+next: friends
 weight: 8
 breadcrumbs: false
 ---

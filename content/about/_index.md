@@ -1,11 +1,11 @@
 ---
-linkTitle: About
 title: About
 toc: false
 cascade:
   type: docs
 next: three_stages
 weight: 1
+breadcrumbs: false
 ---
 
 > Bitcoin is different things to different people. <br />

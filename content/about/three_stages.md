@@ -4,7 +4,7 @@ toc: false
 cascade:
   type: docs
 prev: about
-next: friends
+next: support
 weight: 2
 breadcrumbs: false
 ---
@@ -15,4 +15,4 @@ breadcrumbs: false
   <img src="https://raw.githubusercontent.com/inpharmaticist/beta/refs/heads/main/content/about/stages.jpeg" alt="Stages" width="500"/>
 </center>
 
-Which stage are you in? Are you ready to optimize or graduate to the next one and need help? Check out our [Support](/support) page.
+Which stage are you in? Are you ready to optimize or graduate to the next one and need help?
