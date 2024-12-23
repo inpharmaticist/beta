@@ -6,6 +6,7 @@ cascade:
 previous: friends
 next: contact
 weight: 4
+breadcrumbs: false
 ---
 
 |⚠️ Warning|

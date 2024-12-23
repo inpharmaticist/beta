@@ -5,5 +5,6 @@ cascade:
   type: docs
 previous: blog
 weight: 8
+breadcrumbs: false
 ---
-chat
+We are a part of a [Signal](https://signal.org/) group chat with other local Bitcoin meetups. To prevent scammers and bots, we prefer to add people in person. So come to an event and we'll get connected!
