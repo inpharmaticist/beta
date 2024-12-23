@@ -4,7 +4,7 @@ title:
 toc: false
 cascade:
   type: docs
-previous: frens
+previous: friends
 next: contact
 ---
 

@@ -3,6 +3,7 @@ linkTitle: "Friends"
 title: Our Friends
 toc: false
 weight: 3
+prev: three_stages
 next: support
 ---
 
