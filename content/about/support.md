@@ -35,7 +35,4 @@ I'm here to share what I've learned with you. Cut through the noise and get star
 * Less than 100% confident in your wallet setup?
 * Struggling with a new tool?
 
-If you answer _yes_ to any of the questions above, you might benefit from hands-on support from an experienced Bitcoin enthusiast.  
-Reach out for a free consultation. After that, if we identify areas of improvement I will propose recommended changes, walk you through execution, and be there for you afterward if you have further questions.
-  </iframe>
-</center>
+If you answer _yes_ to any of the questions above, you might benefit from hands-on support from an experienced Bitcoin enthusiast. Reach out for a free consultation. After that, if we identify areas of improvement I will propose recommended changes and walk you through execution.
